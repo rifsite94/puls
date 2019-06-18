@@ -22,5 +22,14 @@
     "maintained node versions",
     "not dead"
   ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rifsite94/puls.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rifsite94/puls/issues"
+  },
+  "homepage": "https://github.com/rifsite94/puls#readme",
   "description": ""
 }
